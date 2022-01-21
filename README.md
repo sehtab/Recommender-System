@@ -12,8 +12,8 @@ Collaborative filtering is based on other customers choice which is kept in data
 
 # Algorithm
 
-*User ratings matrix: shows the rating of users 
-*Pearson Correlation: discover similarit of active user is to other users.Similarity measurents is done by Pearson Correlation
+* User ratings matrix: shows the rating of users 
+* Pearson Correlation: discover similarit of active user is to other users.Similarity measurents is done by Pearson Correlation
 * Creating the weighted ratings matrix: correlation results in a weighted ratings matrix. Then matrix is normalized.
 * Finding Similarity of users to input users
 * Finding top similar users to input user
